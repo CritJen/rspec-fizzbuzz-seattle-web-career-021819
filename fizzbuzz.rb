@@ -7,4 +7,5 @@ def fizzbuzz(num)
     "Buzz"
   else if num % 15 == 0
     "FizzBuzz"
+  end
 end
